@@ -32,9 +32,6 @@ The tasks are stored in a JSON file named tasks.json. When the program starts, i
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License
 
 ## Acknowledgments
 
